@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7gLtgdKOUubFvkwpwDi+J1DDobFDUCDvEwwPKUghr2Q0qId/89cv6wXVoAEB7qtKlc9IN/kfxvSo8dgL1BpR1Q==",
+  "dgSpecHash": "O0xO4c51XWQSKI+DgEf0G2W0NR3To9jp32PsgJmrFPPDombxs3JBaGt983r70fmE3+K3I3V9akfH2MVYd6jHkA==",
   "success": true,
-  "projectFilePath": "/Users/than9423/Desktop/LUCSITHAN/Project/BackEnd/ChungKhoan(ASP.NET Core)/StockAppWebApi/StockAppWebApi.csproj",
+  "projectFilePath": "/Users/than9423/Desktop/PROJECT/BackEnd/ChungKhoan(ASP.NET Core)/StockAppWebApi/StockAppWebApi.csproj",
   "expectedPackageFiles": [
     "/Users/than9423/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/Users/than9423/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",
